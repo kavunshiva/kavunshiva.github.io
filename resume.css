@@ -44,4 +44,5 @@ body {
 #description-content {
     margin-top: 2px;
     display: flex;
+    font-size: 1em;
 }
